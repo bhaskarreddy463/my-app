@@ -35,7 +35,7 @@ testem.log
 /typings
 
 node_modules/*
-
+node_modules
 # System Files
 .DS_Store
 Thumbs.db
